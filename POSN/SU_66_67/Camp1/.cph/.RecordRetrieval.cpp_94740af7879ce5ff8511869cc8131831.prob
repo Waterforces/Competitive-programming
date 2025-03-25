@@ -1,0 +1,1 @@
+{"name":"Local: RecordRetrieval","url":"c:\\Code\\Cpp\\SUCamp\\Camp1\\RecordRetrieval.cpp","tests":[{"id":1728354641327,"input":"3\n07520101 Mhong Lim 4\n07530102 Wanchana Munjai 3\n07520103 Kalaya Tatong 4\n4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\Cpp\\SUCamp\\Camp1\\RecordRetrieval.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: TheVoiceSU","url":"c:\\Code\\Cpp\\SUCamp\\Camp1\\TheVoiceSU.cpp","tests":[{"id":1728360964925,"input":"6 2\n1 9 10\n1 8 10\n2 9 9\n2 8 9\n2 10 9\n1 10 10","output":"1 1\n2 2\n3 2\n5 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\Cpp\\SUCamp\\Camp1\\TheVoiceSU.cpp","group":"local","local":true}

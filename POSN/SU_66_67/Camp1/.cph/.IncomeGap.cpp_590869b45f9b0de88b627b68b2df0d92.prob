@@ -1,0 +1,1 @@
+{"name":"Local: IncomeGap","url":"c:\\Code\\Cpp\\SUCamp\\Camp1\\IncomeGap.cpp","tests":[{"id":1728369032965,"input":"2\n616 242 943 711 404 \n30 140 811 113 585 ","output":"781 701 80"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\Cpp\\SUCamp\\Camp1\\IncomeGap.cpp","group":"local","local":true}

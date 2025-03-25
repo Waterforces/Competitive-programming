@@ -1,0 +1,1 @@
+{"name":"Local: AnyMaxConsec","url":"c:\\Code\\Cpp\\SUCamp\\Camp1\\AnyMaxConsec.cpp","tests":[{"id":1728310967479,"input":"2\n7\n7\n7\n2\n2\n1\n2\n2\n2\n0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\Cpp\\SUCamp\\Camp1\\AnyMaxConsec.cpp","group":"local","local":true}

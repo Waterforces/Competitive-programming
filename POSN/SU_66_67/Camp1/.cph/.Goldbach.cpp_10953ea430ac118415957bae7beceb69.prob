@@ -1,0 +1,1 @@
+{"name":"Local: Goldbach","url":"c:\\Code\\Cpp\\SUCamp\\Camp1\\Goldbach.cpp","tests":[{"id":1728470469812,"input":"2\n3\n0","output":"Y 3\nY 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\Cpp\\SUCamp\\Camp1\\Goldbach.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Lottery","url":"c:\\Code\\Cpp\\SUCamp\\Camp1\\Lottery.cpp","tests":[{"id":1728369920026,"input":"7\n174893 249893 412325 217398 007123 000839 007123\n3\n893 007 123","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\Cpp\\SUCamp\\Camp1\\Lottery.cpp","group":"local","local":true}

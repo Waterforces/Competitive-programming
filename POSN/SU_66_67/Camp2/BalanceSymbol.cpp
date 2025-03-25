@@ -1,0 +1,51 @@
+#include<bits/stdc++.h>
+using namespace std;
+int n,k;
+string s;
+
+void display(stack<char> st) {
+    stack<char> cp;
+    cp=st;
+    while(!cp.empty()) {
+        char c=cp.top();
+        cp.pop();
+        cout << c << " ";
+    }
+    cout << endl;
+}
+
+int main() {
+    cin >> n;
+    getline(cin,s);
+    for(int j=0;j<n;j++) {
+        k=0;
+        stack<char> st;
+        getline(cin,s);
+//        cout << s << endl;
+        int x=s.length();
+        st.push('0');
+        for(int i=0;i<x;i++) {
+            char c=st.top();
+            if(c=='\'' && s[i]=='\'') st.pop();
+            else if (c=='\"' && s[i]=='\"') st.pop();
+            else if(s[i]=='(' || s[i]=='{' || s[i]=='[' || s[i]=='\'' || s[i]=='\"' || s[i]=='<') st.push(s[i]);
+            else if(s[i]==')' || s[i]=='}' || s[i]==']' || s[i]=='\'' || s[i]=='\"' || s[i]=='>') {
+                if(c=='(' && s[i]==')') st.pop();
+                else if(c=='{' && s[i]=='}') st.pop();
+                else if(c=='[' && s[i]==']') st.pop();
+                else if(c=='<' && s[i]=='>') st.pop();
+//                else if(c=='\'' && s[i]=='\'') st.pop();
+//                else if(c=='\"' && s[i]=='\"') st.pop();
+                // else if(s[i]=='\'' || s[i]=='\"') st.push(s[i]);
+                else {
+                    cout << "NO\n";
+                    k=1;
+                    break ;
+                }
+            }
+//            display(st);
+        }
+        if(st.top()=='0') cout << "YES\n";
+        else if(k==0)cout << "NO\n";
+    }
+}

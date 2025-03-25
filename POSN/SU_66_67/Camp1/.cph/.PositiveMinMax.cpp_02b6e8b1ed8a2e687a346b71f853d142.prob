@@ -1,0 +1,1 @@
+{"name":"Local: PositiveMinMax","url":"c:\\Code\\Cpp\\SUCamp\\Camp1\\PositiveMinMax.cpp","tests":[{"id":1728307094678,"input":"7\n3\n-1\n0\n-10\n2\n5\n20","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\Cpp\\SUCamp\\Camp1\\PositiveMinMax.cpp","group":"local","local":true}

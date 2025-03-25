@@ -1,0 +1,1 @@
+{"name":"Local: Stamps2","url":"c:\\Code\\Cpp\\SUCamp\\Camp1\\Stamps2.cpp","tests":[{"id":1728405276350,"input":"789 1 6\n123 2 3\n456 1 1\n6 50\n97 30\n456 15\n123 20\n789 20\n1 90\n456 15","output":"187\n120\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\Cpp\\SUCamp\\Camp1\\Stamps2.cpp","group":"local","local":true}

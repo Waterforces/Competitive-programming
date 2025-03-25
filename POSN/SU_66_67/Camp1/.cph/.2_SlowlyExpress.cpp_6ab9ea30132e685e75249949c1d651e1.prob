@@ -1,0 +1,1 @@
+{"name":"Local: 2_SlowlyExpress","url":"c:\\Code\\Cpp\\SUCamp\\Camp1\\2_SlowlyExpress.cpp","tests":[{"id":1728373205143,"input":"200 \n200 \n200 \n9000 \n0 \n2800 \n-500","output":"0 \n0 \n1 \n11 \n0 \n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\Cpp\\SUCamp\\Camp1\\2_SlowlyExpress.cpp","group":"local","local":true}

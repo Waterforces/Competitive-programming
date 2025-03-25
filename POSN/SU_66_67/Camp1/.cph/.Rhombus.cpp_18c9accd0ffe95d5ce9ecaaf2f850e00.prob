@@ -1,0 +1,1 @@
+{"name":"Local: Rhombus","url":"c:\\Code\\Cpp\\SUCamp\\Camp1\\Rhombus.cpp","tests":[{"id":1728329801211,"input":"7","output":"   *\n  ***\n *****\n*******\n *****\n  ***\n   *"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\Cpp\\SUCamp\\Camp1\\Rhombus.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: CountInInterval","url":"c:\\Code\\Cpp\\SUCamp\\Camp1\\CountInInterval.cpp","tests":[{"id":1728309917713,"input":"5\n-10\n90\n5\n-3\n-7\n0\n5\n-8\n-8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\Cpp\\SUCamp\\Camp1\\CountInInterval.cpp","group":"local","local":true}

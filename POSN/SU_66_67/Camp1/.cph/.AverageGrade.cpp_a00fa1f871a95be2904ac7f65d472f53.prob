@@ -1,0 +1,1 @@
+{"name":"Local: AverageGrade","url":"c:\\Code\\Cpp\\SUCamp\\Camp1\\AverageGrade.cpp","tests":[{"id":1728321987608,"input":"80\n65\n50\n40\n89\n58\n70\n69\n71\n55\n49\n50","output":"4\n2\n3\n3\n3\n2\n1\n2\n2.500000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\Cpp\\SUCamp\\Camp1\\AverageGrade.cpp","group":"local","local":true}

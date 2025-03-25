@@ -1,0 +1,1 @@
+{"name":"Local: CardPair1","url":"c:\\Code\\Cpp\\SUCamp\\Camp1\\CardPair1.cpp","tests":[{"id":1728448726901,"input":"AB BA\nKZ LG\nSA ZA\nKB ZA\nPJ QW","output":"DLDLW"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Code\\Cpp\\SUCamp\\Camp1\\CardPair1.cpp","group":"local","local":true}
